@@ -14,6 +14,6 @@ Follow these steps to get the project up and running on your local machine:
 4. Install dependencies: `npm install`
 5. Run the development server: `npm run dev`
 6. Open your browser and visit `http://localhost:3000` to see the LearnSphere in action.(Port can be different !!)
-
+(Make sure you have installed Node.JS in your system. )
 ## License
 This project is licensed under the [MIT License](LICENSE.md).
