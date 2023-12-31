@@ -17,3 +17,4 @@ Follow these steps to get the project up and running on your local machine:
 (Make sure you have installed Node.JS in your system. )
 ## License
 This project is licensed under the [MIT License](LICENSE.md).
+![Screenshot 2023-12-24 195518](https://github.com/BhavikBhindora/front_page_with_sphere_threejs/assets/99002219/4f08c3bb-dad6-48ea-923c-91657833695a)
