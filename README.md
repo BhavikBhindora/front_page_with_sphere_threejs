@@ -1,5 +1,6 @@
 # front_page_with_sphere_threejs
 Front Page Of Your Website Using Three.JS With Cool Animations
+![Screenshot 2023-12-24 195518](https://github.com/BhavikBhindora/front_page_with_sphere_threejs/assets/99002219/4f08c3bb-dad6-48ea-923c-91657833695a)
 ## Features
 - **Interactive Sphere:** Engage with a 3D sphere using your mouse to see random colors on it.
 - **Dynamic Text:** Animated text on the sphere adds a dynamic element to the website experience.
@@ -17,4 +18,4 @@ Follow these steps to get the project up and running on your local machine:
 (Make sure you have installed Node.JS in your system. )
 ## License
 This project is licensed under the [MIT License](LICENSE.md).
-![Screenshot 2023-12-24 195518](https://github.com/BhavikBhindora/front_page_with_sphere_threejs/assets/99002219/4f08c3bb-dad6-48ea-923c-91657833695a)
+
